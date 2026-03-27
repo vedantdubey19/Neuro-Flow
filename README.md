@@ -1,7 +1,5 @@
 🧠 NeuroFlow AI Productivity System 
 
-
-
 An AI-powered productivity system that optimizes your schedule, tracks focus, and provides intelligent coaching using heuristic reinforcement logic.
 
 Built with a modular architecture and persistent state, NeuroFlow evolves from a simple tracker into a smart decision-making assistant.
